@@ -1,2 +1,2 @@
 # Burger-Builder
-A classic Burger Builder using React
+A classic Burger Builder webapp with responsive mobile and desktop layouts using React
